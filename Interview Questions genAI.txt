@@ -1,0 +1,22 @@
+
+
+
+Round 1: Technical Interview
+1. What is Retrieval-Augmented Generation (RAG), and how does it improve LLM responses?
+2. Explain the GenAI project you are currently working on.
+3. How would you process PDFs containing both text and images in a RAG pipeline?
+4. What techniques do you use for prompt engineering?
+5. What is an imbalanced dataset, and how would you handle it?
+6. Explain precision, recall, and F1-score.
+7. What are AI agents, and how do they differ from traditional LLM applications?
+8. Write a Python program to print even and odd numbers from a list.
+9. Write a Python program to check whether a number is prime.
+
+Round 2: Technical Interview
+1. What are the different chunking strategies used in RAG, and how would you choose one?
+2. How would you extract and process information from unstructured PDF documents?
+3. How would you improve retrieval accuracy in a RAG application?
+4. What is Slowly Changing Dimension (SCD) in data engineering?
+5. How would you identify and remove duplicate records from a database table?
+6. Explain the key components of a production-ready GenAI application.
+7. What are LangChain and LangGraph, and when would you use them?
